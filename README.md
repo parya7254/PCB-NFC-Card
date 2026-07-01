@@ -1,6 +1,8 @@
 # PCB-NFC-Card
 A NFC card that pulls up the programmed website when tapped by a supported phone! It will also harvest the power from the NFC field to make an LED light up as well!
 
+<img width="576" height="1024" alt="image" src="https://github.com/user-attachments/assets/c2e42516-443d-47bd-92a0-0dc07319b706" />
+
 <img width="1072" height="503" alt="image" src="https://github.com/user-attachments/assets/5e465a94-8394-4cb8-9e22-17e510bc4750" />
 
 # Why I made this:
